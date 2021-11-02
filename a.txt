@@ -1,1 +1,4 @@
 Testando uma atualização de arquivo pelo comando pull
+
+
+Enviando a funcionalidade A
